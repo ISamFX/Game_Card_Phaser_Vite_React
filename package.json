@@ -3,13 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ISamFX.github.io/Game_Card_Phaser_Vite_React",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist" 
   },
   "dependencies": {
     "phaser": "^3.88.2",
@@ -31,3 +32,4 @@
     "vite": "^6.3.1"
   }
 }
+
