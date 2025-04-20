@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import reactLogo from './assets/react.svg';
-import viteLogo from './assets/vite.svg';
+import viteLogo from './vite.svg';
 import phaserLogo from './assets/phaser-seeklogo.png';
 import GameCard from '../src/components/GameCard';
 import './App.css';
