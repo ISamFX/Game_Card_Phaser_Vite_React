@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/assets",
+  base: "/Game_Card_Phaser_Vite_React/", 
   plugins: [react()],
 });
